@@ -1,0 +1,4 @@
+[26-May-2016 11:55:19 America/Chicago] PHP Fatal error:  Call to a member function get_cat() on a non-object in /home/hotel631/public_html/decoorar/application/views/painel/produto.php on line 14
+[27-May-2016 11:04:38 America/Chicago] PHP Fatal error:  Call to a member function get_all_est() on a non-object in /home/hotel631/public_html/decoorar/application/views/painel/cliente.php on line 14
+[31-May-2016 08:38:21 America/Chicago] PHP Fatal error:  Call to a member function get_all_est() on a non-object in /home/hotel631/public_html/decoorar/application/views/painel/cliente.php on line 14
+[15-Jun-2016 06:37:42 America/Chicago] PHP Fatal error:  Call to undefined method Produto_model::get_all() in /home/hotel631/public_html/decoorar/application/views/painel/produto.php on line 242
